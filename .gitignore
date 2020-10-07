@@ -1,0 +1,5 @@
+db.sqlite3
+Django_JWT/__pycache__
+testapp/__pycache__
+testapp/migrations
+.idea/
